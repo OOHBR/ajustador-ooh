@@ -1,3 +1,5 @@
-streamlit==1.35.0
-moviepy==1.0.3
-imageio==2.31.1
+streamlit
+moviepy
+imageio
+imageio-ffmpeg
+pillow==9.5.0
